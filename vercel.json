@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(./dist/index.html)",
+      "destination": "https://bitebank.vercel.app/"
+    }
+  ]
+}
